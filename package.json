@@ -1,0 +1,11 @@
+{
+  "name": "leetcode-36-valid-sudoku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
